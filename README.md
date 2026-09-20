@@ -13,7 +13,7 @@ Outside of work, I independently study AI and build practical applications invol
 - REST APIs, GraphQL, and microservices
 - SQL and backend application development
 - Azure services and production deployments
-- Azure DevOps and CI/CD 
+- Azure, Azure DevOps, and CI/CD 
 - Production monitoring and technical documentation
 
 ### Independent AI Projects
@@ -24,12 +24,12 @@ Outside of work, I independently study AI and build practical applications invol
 - Retrieval-Augmented Generation
 - Vector search and semantic retrieval
 - Python and FastAPI
-- Human-in-the-loop validation
-- AI application security
+- Docker, GitHub Actions, and Azure Container Apps
+- API authentication, rate limiting, and human-in-the-loop validation
 
 ## Featured Projects
 
-### AI-Augmented SDLC Application
+### [AI-Augmented SDLC Application](https://github.com/Sarora09/ai-augmented-sdlc)
 
 A multi-agent software development workflow built independently using LangGraph, FastAPI, Docker, GitHub Actions, and Azure Container Apps.
 
@@ -43,7 +43,7 @@ Key capabilities include:
 - API authentication and rate limiting
 - CI/CD deployment to Azure Container Apps
 
-### Web RAG QA Application
+### [Web RAG QA Application](https://github.com/Sarora09/web-rag-qa-application)
 
 A document question-answering application built independently using LangChain, Hugging Face embeddings, FAISS, ChatGroq, Docker, and Azure.
 
@@ -67,4 +67,4 @@ Key capabilities include:
 
 ## Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/sapanarora]
+- [LinkedIn](https://www.linkedin.com/in/sapanarora)
