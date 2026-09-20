@@ -13,7 +13,7 @@ Outside of work, I independently study AI and build practical applications invol
 - REST APIs, GraphQL, and microservices
 - SQL and backend application development
 - Azure services and production deployments
-- Azure, Azure DevOps, and CI/CD 
+- Azure DevOps and CI/CD
 - Production monitoring and technical documentation
 
 ### Independent AI Projects
@@ -59,10 +59,9 @@ Key capabilities include:
 
 ## Current Focus
 
-- Building reliable AI applications
-- Improving my understanding of agentic workflows
-- Learning AI evaluation and observability
-- Combining backend software engineering with AI systems
+- Building practical AI applications with Python and Azure
+- Developing agentic AI and RAG systems
+- Combining backend engineering with AI workflows
 - Preparing for AI-focused software engineering opportunities
 
 ## Connect With Me
